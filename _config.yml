@@ -1,0 +1,14 @@
+layout_spectrum: 0.5922240416985005
+typography_spectrum: 0.8007936209905893
+color:
+  brandStrength: 0.24885561992414296
+  lightness: 0.08662368962541223
+  saturation: 0.6267011873424053
+  rhythmicContrast: 0.311704920604825
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: thisnow4
